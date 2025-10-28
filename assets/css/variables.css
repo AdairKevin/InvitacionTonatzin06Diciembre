@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Montserrat:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Great+Vibes&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+:root {
+  /* Gradiente de fondo */
+  --bg-gradient: linear-gradient(
+    131deg,
+    #76593a -3.63%,
+    #c8a76e 55.5%,
+    #76593a 107.94%
+  );
+
+  /* Color de fondo */
+  --bg-content: #ffffff;
+
+  /* Fondo del Contenedor */
+  --bg-container: #0f1a0f;
+
+  /* fondo del contador  */
+  --bg-contador: #ffffff;
+
+  /* Colores de texto */
+  --text-primary: #000000;
+  --text-secondary: #ffffff;
+  --text-tertiary: #384236;
+
+  /* fondo de cards */
+  --bg-card-1: #2e3d29;
+  --bg-card-2: #687e64;
+
+  /* fondo de botones */
+  --bg-botones: linear-gradient(
+    131deg,
+    #2e3d29 -3.63%,
+    #687e64 55.5%,
+    #2e3d29 107.94%
+  );
+
+  --bg-footer: #242424;
+}
