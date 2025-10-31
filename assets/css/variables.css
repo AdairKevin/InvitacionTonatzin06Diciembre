@@ -5,35 +5,44 @@
   /* Gradiente de fondo */
   --bg-gradient: linear-gradient(
     131deg,
-    #76593a -3.63%,
-    #c8a76e 55.5%,
-    #76593a 107.94%
+    #f6b8b0 -3.63%,
+    #e6c07a 55.5%,
+    #f4d9d7 107.94%
   );
 
   /* Color de fondo */
-  --bg-content: #ffffff;
+  --bg-content: #F2F2F2;
 
   /* Fondo del Contenedor */
-  --bg-container: #0f1a0f;
+  --bg-container: #F2A0A0;
 
-  /* fondo del contador  */
-  --bg-contador: #ffffff;
+  /* Fondo del contador */
+  --bg-contador: #F27979;
 
   /* Colores de texto */
-  --text-primary: #000000;
+  --text-primary: #3b2a27;
   --text-secondary: #ffffff;
-  --text-tertiary: #384236;
+  --text-tertiary: #8a5b3b;
 
-  /* fondo de cards */
-  --bg-card-1: #2e3d29;
-  --bg-card-2: #687e64;
+  /* Fondo de cards */
+  --bg-card-1: #F27979;
+  --bg-card-2: linear-gradient(
+    145deg,
+    #6f4a20 0%,
+    #9b6d2a 30%,
+    #b98c3f 60%,
+    #d0b37a 85%,
+    #e9ddc8 100%
+  );
 
-  /* fondo de botones */
+  /* Fondo de botones */
   --bg-botones: linear-gradient(
-    131deg,
-    #2e3d29 -3.63%,
-    #687e64 55.5%,
-    #2e3d29 107.94%
+    45deg,
+    #6f4a20 0%,
+    #9b6d2a 30%,
+    #b98c3f 60%,
+    #d0b37a 85%,
+    #e9ddc8 100%
   );
 
   --bg-footer: #242424;

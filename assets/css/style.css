@@ -343,7 +343,7 @@
         FOOTER
 --------------------------*/
 footer {
-  background-color: var(--bg-container);
+  background-color: var(--bg-footer);
   color: white;
   padding: 1rem;
   text-align: center;
